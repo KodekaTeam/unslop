@@ -38,6 +38,8 @@ Salin `AGENTS.md` dan `.agents/` ke root repository target. Jika repository suda
 
 Skills dapat dipanggil secara eksplisit, misalnya `$unslop-ui`, tetapi description-nya juga dirancang untuk pemilihan otomatis. Detail instalasi tersedia di `INSTALL.md`.
 
+Panduan langkah demi langkah tersedia di [`tutorial/indonesian/`](tutorial/indonesian/README.md), mulai dari instalasi dan routing hingga bootstrap dokumentasi serta kontinuitas sesi.
+
 ## Prinsip hasil
 
 Unslop mengutamakan:

@@ -38,6 +38,8 @@ Copy `AGENTS.md` and `.agents/` into the target repository root. If the reposito
 
 Skills can be invoked explicitly, such as with `$unslop-ui`, while their descriptions are also designed for automatic selection. Installation details are available in `INSTALL.md`.
 
+Step-by-step guides are available in [`tutorial/english/`](tutorial/english/README.md), covering installation and routing as well as documentation bootstrapping and session continuity.
+
 ## Output principles
 
 Unslop prioritizes:
