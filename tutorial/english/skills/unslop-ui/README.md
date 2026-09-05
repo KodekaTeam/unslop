@@ -14,6 +14,8 @@ Use it to implement pages, components, dashboards, product flows, or redesigns t
 4. Ensure controls actually work and connect to the intended behavior.
 5. Critique the result at page, component, and detail levels, then test primary interactions and viewports.
 
+When the project has no governing visual direction, the skill can shortlist two or three suitable styles, explain their fit and risks, and select one primary direction before implementation. Color references are mapped to semantic body, component, typography, interaction, and state tokens; palette order alone does not determine usage.
+
 ## Prompt examples
 
 ```text

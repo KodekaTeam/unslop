@@ -39,10 +39,15 @@ Not every control needs a dramatic choice. A restrained system becomes distincti
 
 - Give accent color a job: primary action, selection, status, or a limited brand moment.
 - Use semantic colors consistently and never as the only carrier of meaning.
+- Separate primitive swatches from semantic roles. Define canvas, surface, elevated surface, border, primary text, secondary text, link, action, focus, and state tokens before styling individual components.
+- Assign body, component, and typography colors by rendered contrast and hierarchy rather than by swatch order. A palette is raw material, not a finished theme.
+- Keep success, warning, danger, and information colors distinct from brand accents unless both meanings remain unambiguous.
 - Establish readable surfaces before adding gradients, translucency, glow, grids, or texture.
 - A gradient is valid when it belongs to the brand or clarifies depth; it is weak when it fills an undecided background.
 - Shadows should explain elevation or separation. Borders should explain grouping. Do not stack both by habit.
 - Dark mode is a product requirement or supported theme, not an automatic shortcut to visual drama.
+
+For style-selection criteria, palette starting points, semantic token mapping, and combination constraints, read [style-and-palette-direction.md](style-and-palette-direction.md).
 
 ## Composition
 

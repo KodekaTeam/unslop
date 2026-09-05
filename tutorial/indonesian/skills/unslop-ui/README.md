@@ -14,6 +14,8 @@ Gunakan untuk implementasi halaman, komponen, dashboard, alur produk, atau redes
 4. Pastikan kontrol benar-benar berfungsi dan terhubung ke perilaku yang dimaksud.
 5. Kritik hasil pada tingkat halaman, komponen, dan detail; lalu uji viewport serta interaksi utama.
 
+Jika proyek belum memiliki arah visual yang mengikat, skill dapat menawarkan dua atau tiga style yang sesuai, menjelaskan kecocokan dan risikonya, lalu memilih satu arah utama sebelum implementasi. Referensi warna dipetakan ke token semantik untuk body, component, typography, interaction, dan state; urutan warna pada palet tidak otomatis menentukan penggunaannya.
+
 ## Contoh prompt
 
 ```text

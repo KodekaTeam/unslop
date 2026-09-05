@@ -23,7 +23,9 @@ Inspect the rendered surface when practical. If direction is missing, make the s
 
 State the direction in one useful sentence, such as “dense operational console with quiet chrome and high-signal status color.” The sentence must constrain actual decisions about hierarchy, density, type, color, shape, or motion. Avoid mood labels that could describe any product.
 
-Read [references/visual-system.md](references/visual-system.md) when the task creates a new visual direction, changes several components, or needs substantial visual polish. For focused edits, preserve the local system without loading it.
+When no governing visual direction exists, shortlist two or three materially different candidates that fit the product and explain each candidate's task fit, defining traits, and principal risk. Select one primary direction before implementation unless the user explicitly requests parallel concepts. A supporting influence may shape a limited detail, but do not blend several named styles into an incoherent trend collage.
+
+Read [references/visual-system.md](references/visual-system.md) when the task creates a new visual direction, changes several components, or needs substantial visual polish. Also read [references/style-and-palette-direction.md](references/style-and-palette-direction.md) when selecting among named UI styles, establishing a new palette, or assigning colors to body, component, and typography roles. For focused edits, preserve the local system without loading either reference.
 
 ## Build around the task
 
