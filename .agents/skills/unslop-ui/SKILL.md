@@ -27,6 +27,8 @@ When no governing visual direction exists, shortlist two or three materially dif
 
 Read [references/visual-system.md](references/visual-system.md) when the task creates a new visual direction, changes several components, or needs substantial visual polish. Also read [references/style-and-palette-direction.md](references/style-and-palette-direction.md) when selecting among named UI styles, establishing a new palette, or assigning colors to body, component, and typography roles. For focused edits, preserve the local system without loading either reference.
 
+Read [references/page-closure-and-footer.md](references/page-closure-and-footer.md) when building or substantially redesigning a landing page, homepage, multi-section marketing page, or footer. Treat the ending as a deliberate part of the page composition without assuming that every site needs a large multi-column footer.
+
 ## Build around the task
 
 - Start with semantic structure and information order; decoration follows.
@@ -52,7 +54,7 @@ At minimum:
 
 Review the result from three distances:
 
-1. **Page:** Is the primary task obvious, and does the composition have intentional rhythm?
+1. **Page:** Is the primary task obvious, does the composition have intentional rhythm, and does the page end with deliberate visual and informational closure?
 2. **Component:** Does each component earn its boundary, emphasis, and interaction?
 3. **Detail:** Are labels, icons, states, focus, alignment, and content honest and coherent?
 

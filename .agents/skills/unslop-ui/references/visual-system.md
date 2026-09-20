@@ -56,7 +56,10 @@ For style-selection criteria, palette starting points, semantic token mapping, a
 - Use alignment and whitespace to connect related information before placing every item in a card.
 - Avoid “card soup”: reserve containers for ownership, interaction, comparison, or meaningful grouping.
 - Do not force feature counts, pricing emphasis, logo bars, step counts, or footer columns to match a template.
+- Treat the page ending as part of the composition. A footer may be restrained, but it should not collapse into a generic strip merely because its design was deferred.
 - On dashboards, lead with decisions and exceptions. A grid of generic metrics is not an information architecture.
+
+For landing-page endings, footer modes, content constraints, and responsive closure, read [page-closure-and-footer.md](page-closure-and-footer.md).
 
 ## Components
 
