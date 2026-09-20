@@ -16,6 +16,8 @@ Use it to implement pages, components, dashboards, product flows, or redesigns t
 
 When the project has no governing visual direction, the skill can shortlist two or three suitable styles, explain their fit and risks, and select one primary direction before implementation. Color references are mapped to semantic body, component, typography, interaction, and state tokens; palette order alone does not determine usage.
 
+For landing pages and homepages, the skill also treats the footer as deliberate page closure. It selects a minimal utility, sitemap, conversion, editorial, or product-service mode from real routes and content instead of defaulting every design to a thin generic strip or inventing links to fill columns.
+
 ## Prompt examples
 
 ```text

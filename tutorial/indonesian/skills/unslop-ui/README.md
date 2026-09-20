@@ -16,6 +16,8 @@ Gunakan untuk implementasi halaman, komponen, dashboard, alur produk, atau redes
 
 Jika proyek belum memiliki arah visual yang mengikat, skill dapat menawarkan dua atau tiga style yang sesuai, menjelaskan kecocokan dan risikonya, lalu memilih satu arah utama sebelum implementasi. Referensi warna dipetakan ke token semantik untuk body, component, typography, interaction, dan state; urutan warna pada palet tidak otomatis menentukan penggunaannya.
 
+Untuk landing page dan homepage, skill juga memperlakukan footer sebagai penutup komposisi yang disengaja. Skill memilih mode minimal utility, sitemap, conversion, editorial, atau product-service dari route dan konten nyata, bukan menjadikan strip tipis generik sebagai default atau mengarang link untuk memenuhi kolom.
+
 ## Contoh prompt
 
 ```text
